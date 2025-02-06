@@ -35,7 +35,7 @@ This project is a simple AI-powered chatbot that uses the **Groq API** to genera
 
 ## 📂 Source Code
 
-You can access the complete source code
+You can access the complete source code https://github.com/PlamenN1919/AI-Chatbot/blob/main/ai_chatbot.py
 
 ---
 
