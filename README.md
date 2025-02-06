@@ -33,12 +33,12 @@ This project is a simple AI-powered chatbot that uses the **Groq API** to genera
 
 ---
 
-##📂 Source Code
+## 📂 Source Code
 
 You can access the complete source code
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
